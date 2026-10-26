@@ -1,0 +1,5 @@
+Cloud storage enables scalable processing for educational projects.
+MapReduce supports parallel execution when data is partitioned correctly.
+Intermediate results are shuffled and sorted before reduction starts.
+Engineers validate correctness by comparing expected and observed totals.
+Practice with small corpora helps students debug their own framework.

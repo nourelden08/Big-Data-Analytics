@@ -1,0 +1,5 @@
+Distributed systems process large volumes of information across many machines.
+Map tasks split the input and emit intermediate key value pairs.
+Reduce tasks aggregate all values that share the same key.
+Students can test tokenization normalization and counting accuracy.
+Reliable analytics requires careful handling of noise and duplicate terms.

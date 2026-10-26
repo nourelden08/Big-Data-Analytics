@@ -1,0 +1,5 @@
+Performance tuning may involve custom partitioners and combiners.
+Combiner logic can reduce network traffic before the shuffle phase.
+Skewed keys can cause stragglers and unbalanced reducer workloads.
+Testing with multiple files verifies cross file aggregation behavior.
+This repository now includes plain text datasets for map reducer practice.

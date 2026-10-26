@@ -1,0 +1,5 @@
+Text analytics includes frequency analysis keyword extraction and indexing.
+An inverted index maps each term to the documents that contain it.
+Students should remove punctuation and normalize letter casing.
+Edge cases include empty lines numbers and mixed language tokens.
+Repeatable experiments improve confidence in reducer determinism.

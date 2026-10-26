@@ -1,0 +1,5 @@
+Big data pipelines often begin with log ingestion and parsing.
+A mapper can read each line and extract meaningful words.
+Another mapper can emit composite keys for advanced analysis.
+Reducers combine partial counts from many independent mapper outputs.
+This sample file intentionally repeats words words words for testing.
